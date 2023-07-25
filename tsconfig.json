@@ -6,6 +6,7 @@
     "lib": [
       "ES2021"
     ],
+    "jsx": "react",
     "paths": {
       "@site/*": [
         "./*"
