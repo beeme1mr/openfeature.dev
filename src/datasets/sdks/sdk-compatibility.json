@@ -4,8 +4,8 @@
     "path": "/docs/reference/technologies/server/java",
     "category": "Server",
     "release": {
-      "href": "https://github.com/open-feature/java-sdk/releases/tag/v1.7.3",
-      "version": "1.7.3",
+      "href": "https://github.com/open-feature/java-sdk/releases/tag/v1.9.1",
+      "version": "1.9.1",
       "stable": true
     },
     "spec": {
@@ -30,8 +30,8 @@
         "path": "/docs/reference/technologies/server/java#logging"
       },
       "Named clients": {
-        "status": "✅",
-        "path": "/docs/reference/technologies/server/java#named-clients"
+        "status": "❓",
+        "path": "/docs/reference/technologies/server/java"
       },
       "Eventing": {
         "status": "✅",
@@ -52,13 +52,13 @@
     "path": "/docs/reference/technologies/server/javascript",
     "category": "Server",
     "release": {
-      "href": "https://github.com/open-feature/js-sdk/releases/tag/server-sdk-v1.9.1",
-      "version": "1.9.1",
+      "href": "https://github.com/open-feature/js-sdk/releases/tag/server-sdk-v1.15.0",
+      "version": "1.15.0",
       "stable": true
     },
     "spec": {
-      "href": "https://github.com/open-feature/spec/releases/tag/v0.7.0",
-      "version": "0.7.0"
+      "href": "https://github.com/open-feature/spec/releases/tag/v0.8.0",
+      "version": "0.8.0"
     },
     "features": {
       "Providers": {
@@ -78,8 +78,8 @@
         "path": "/docs/reference/technologies/server/javascript#logging"
       },
       "Named clients": {
-        "status": "✅",
-        "path": "/docs/reference/technologies/server/javascript#named-clients"
+        "status": "❓",
+        "path": "/docs/reference/technologies/server/javascript"
       },
       "Eventing": {
         "status": "✅",
@@ -100,13 +100,13 @@
     "path": "/docs/reference/technologies/server/dotnet",
     "category": "Server",
     "release": {
-      "href": "https://github.com/open-feature/dotnet-sdk/releases/tag/v1.3.1",
-      "version": "1.3.1",
+      "href": "https://github.com/open-feature/dotnet-sdk/releases/tag/v2.0.0",
+      "version": "2.0.0",
       "stable": true
     },
     "spec": {
-      "href": "https://github.com/open-feature/spec/releases/tag/v0.5.2",
-      "version": "0.5.2"
+      "href": "https://github.com/open-feature/spec/releases/tag/v0.7.0",
+      "version": "0.7.0"
     },
     "features": {
       "Providers": {
@@ -126,8 +126,8 @@
         "path": "/docs/reference/technologies/server/dotnet#logging"
       },
       "Named clients": {
-        "status": "✅",
-        "path": "/docs/reference/technologies/server/dotnet#named-clients"
+        "status": "❓",
+        "path": "/docs/reference/technologies/server/dotnet"
       },
       "Eventing": {
         "status": "✅",
@@ -148,8 +148,8 @@
     "path": "/docs/reference/technologies/server/go",
     "category": "Server",
     "release": {
-      "href": "https://github.com/open-feature/go-sdk/releases/tag/v1.9.0",
-      "version": "1.9.0",
+      "href": "https://github.com/open-feature/go-sdk/releases/tag/v1.12.0",
+      "version": "1.12.0",
       "stable": true
     },
     "spec": {
@@ -174,8 +174,8 @@
         "path": "/docs/reference/technologies/server/go#logging"
       },
       "Named clients": {
-        "status": "✅",
-        "path": "/docs/reference/technologies/server/go#named-clients"
+        "status": "❓",
+        "path": "/docs/reference/technologies/server/go"
       },
       "Eventing": {
         "status": "✅",
@@ -196,13 +196,13 @@
     "path": "/docs/reference/technologies/server/python",
     "category": "Server",
     "release": {
-      "href": "https://github.com/open-feature/python-sdk/releases/tag/v0.4.1",
-      "version": "0.4.1",
+      "href": "https://github.com/open-feature/python-sdk/releases/tag/v0.7.1",
+      "version": "0.7.1",
       "stable": false
     },
     "spec": {
-      "href": "https://github.com/open-feature/spec/releases/tag/v0.3.0",
-      "version": "0.3.0"
+      "href": "https://github.com/open-feature/spec/releases/tag/v0.8.0",
+      "version": "0.8.0"
     },
     "features": {
       "Providers": {
@@ -218,15 +218,15 @@
         "path": "/docs/reference/technologies/server/python#hooks"
       },
       "Logging": {
-        "status": "❌",
+        "status": "✅",
         "path": "/docs/reference/technologies/server/python#logging"
       },
       "Named clients": {
-        "status": "❌",
-        "path": "/docs/reference/technologies/server/python#named-clients"
+        "status": "❓",
+        "path": "/docs/reference/technologies/server/python"
       },
       "Eventing": {
-        "status": "❌",
+        "status": "✅",
         "path": "/docs/reference/technologies/server/python#eventing"
       },
       "Shutdown": {
@@ -244,8 +244,8 @@
     "path": "/docs/reference/technologies/server/php",
     "category": "Server",
     "release": {
-      "href": "https://github.com/open-feature/php-sdk/releases/tag/2.0.4",
-      "version": "2.0.4",
+      "href": "https://github.com/open-feature/php-sdk/releases/tag/2.0.8",
+      "version": "2.0.8",
       "stable": true
     },
     "spec": {
@@ -292,13 +292,13 @@
     "path": "/docs/reference/technologies/client/web",
     "category": "Client",
     "release": {
-      "href": "https://github.com/open-feature/js-sdk/releases/tag/web-sdk-v0.4.10",
-      "version": "0.4.10",
-      "stable": false
+      "href": "https://github.com/open-feature/js-sdk/releases/tag/web-sdk-v1.2.2",
+      "version": "1.2.2",
+      "stable": true
     },
     "spec": {
-      "href": "https://github.com/open-feature/spec/releases/tag/v0.7.0",
-      "version": "0.7.0"
+      "href": "https://github.com/open-feature/spec/releases/tag/v0.8.0",
+      "version": "0.8.0"
     },
     "features": {
       "Providers": {
@@ -318,8 +318,8 @@
         "path": "/docs/reference/technologies/client/web#logging"
       },
       "Named clients": {
-        "status": "✅",
-        "path": "/docs/reference/technologies/client/web#named-clients"
+        "status": "❓",
+        "path": "/docs/reference/technologies/client/web"
       },
       "Eventing": {
         "status": "✅",
@@ -340,8 +340,8 @@
     "path": "/docs/reference/technologies/client/kotlin",
     "category": "Client",
     "release": {
-      "href": "https://github.com/open-feature/kotlin-sdk/releases/tag/v0.2.2",
-      "version": "0.2.2",
+      "href": "https://github.com/open-feature/kotlin-sdk/releases/tag/v0.3.0",
+      "version": "0.3.0",
       "stable": false
     },
     "spec": {
@@ -388,8 +388,8 @@
     "path": "/docs/reference/technologies/client/swift",
     "category": "Client",
     "release": {
-      "href": "https://github.com/open-feature/swift-sdk/releases/tag/0.0.2",
-      "version": "0.0.2",
+      "href": "https://github.com/open-feature/swift-sdk/releases/tag/0.2.0",
+      "version": "0.2.0",
       "stable": false
     },
     "spec": {
